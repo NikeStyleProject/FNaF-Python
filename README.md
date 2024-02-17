@@ -1,2 +1,7 @@
-# FNaF-Python
-FNaF -- Python Edition
+# FNaF -- Python Edition
+### Project, which will make an unic experience of FNaF in Python
+
+## Made (0%):
+### -- Two windows, no graphical assistance (InDev)
+### -- Two windows, ASCII graphics (NotStarted)
+### -- Build into exe, try to make as one window (NotStarted)
